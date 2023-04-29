@@ -31,7 +31,7 @@ print("Always learning new things 🔎!")
 | Team Name | Source                                              |   App Name   |  Status  |
 | :-------: | --------------------------------------------------- | :-----------: | :-------: |
 |  Example  | [Github](https://github.com/iOS-Lab-UP/Hackathon-2023) | Your-App-Name | Submitted |
-|Maurisio          |Algo.com                                                     |Mi app name              | Quizasmente          |
+|Maurisio          |Algo.com                                                    |Mi app name              | Quizasmente          |
 |          |                                                     |              |          |
 |          |                                                     |              |          |
 |          |                                                     |              |          |
