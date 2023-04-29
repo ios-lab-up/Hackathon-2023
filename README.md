@@ -14,6 +14,18 @@ List of student submissions for the iOS Lab Hackathon-2023.
 * [Swift Basics](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
 * [How to use Git](https://www.w3schools.com/git/)
 
+```swift
+print("Hello Swift Student Challenge Participants!")
+
+let Hackathon= [
+    "code": ["Python", "Swift", "SQL"],
+    "areas": ["Mobile Dev", "Backend", "UI-UX Design"],
+    "tools": ["X-Code", "Swift", "Flask", "Docker", "Figma"]
+]
+
+print("Always learning new things 🔎!")
+```
+
 
 **To add your own project below, edit this file and submit a pull request, please 😁.**
 
