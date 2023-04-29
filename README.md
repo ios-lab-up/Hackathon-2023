@@ -7,8 +7,6 @@ List of student submissions for the iOS Lab Hackathon-2023.
 
 ## Some resources that may help you through this hackathon 💻
 
-![1682742725710](image/README/1682742725710.png)
-
 * [Flask Template](https://github.com/luisced/flask-template)
 * [Learn Figma](https://www.figma.com/resources/learn-design/)
 * [Swift Basics](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
