@@ -37,8 +37,7 @@ print("Always learning new things 🔎!")
 |   Tofu_ |  [Github](https://github.com/TofuDotTech/tofu_mobility)          | Tofu_ Mobility     | Submitted    |Jyaru Hernandez|
 |Rogeval-kal|[Github](https://github.com/GenaroGA/iShare)        |iShare        |          |Kael Cort|
 |              |          ||
-|Park-A-Lot| [Github](https://github.com/SebasJacome/hackathon_swiftui) | Park-A-Lot| Submitted |José
- Kuri
+|Park-A-Lot| [Github](https://github.com/SebasJacome/hackathon_swiftui) | Park-A-Lot| Submitted |José Kuri
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
