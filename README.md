@@ -35,7 +35,7 @@ print("Always learning new things 🔎!")
 |    iSee   | [Github](https://github.com/RivNadia/iSee)             |  iSee         |    Submitted      | Yael Zamora |
 |     Compara Bus     | [Github](https://github.com/RafaPatino01/hackathon-up)                                | Compara Bus                 |      Submitted    |Rafa Patiño|
 |   Tofu_ |  [Github](https://github.com/TofuDotTech/tofu_mobility)          | Tofu_ Mobility     | Submitted    |Jyaru Hernandez|
-|Rogeval-kal|[Github](https://github.com/GenaroGA/iShare)        |iShare        |          |Kael Cort|
+|Rogeval-kal|[Github](https://github.com/GenaroGA/HackathonUP)        |iShare        |          |Kael Cort|
 |              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
