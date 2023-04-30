@@ -31,7 +31,7 @@ print("Always learning new things 🔎!")
 | Team Name | Source                                              |   App Name   |  Status  |
 | :-------: | --------------------------------------------------- | :-----------: | :-------: |
 |  Example  | [Github](https://github.com/iOS-Lab-UP/Hackathon-2023) | Your-App-Name | Submitted |
-|    iSee   | [Github](https://github.com/RivNadia/iSee)             |  iSee         |          |
+|    iSee   | [Github](https://github.com/RivNadia/iSee)             |  iSee         |    Submitted      |
 |          |                                                     |              |          |
 |          |                                                     |              |          |
 |          |                                                     |              |          |
@@ -56,7 +56,7 @@ print("Always learning new things 🔎!")
 |          |                                                     |              |          |
 |          |                                                     |              |          |
 |          |                                                     |              |          |
-|LOS FLACOS | [Github](https://github.com/Mauricio-create/App_H.git) | Free-Place| Submitted (#1) |
+|LOS FLACOS | [Github](https://github.com/Mauricio-create/App_H.git) | Free-Place| Submitted |
 |           |                                                     |              |          |
 |           |                                                     |              |          |
 |           |                                                     |              |          |
