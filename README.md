@@ -38,6 +38,9 @@ print("Always learning new things 🔎!")
 |Rogeval-kal|[Github](https://github.com/GenaroGA/HackathonUP)        |iShare        |          |Kael Cort|
 |              |          ||
 |          |                                                     |              |          ||
+=======
+|Rogeval-kal|[Github](https://github.com/GenaroGA/iShare)        |iShare        |          |Kael Cort|
+| PIMNGUIAMIGOS  |[Github](https://github.com/OscarValdes1997/MUSHU)        |MUSHU|Submitted|Valdes Oscar|                                                     |              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
