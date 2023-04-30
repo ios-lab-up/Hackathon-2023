@@ -34,7 +34,7 @@ print("Always learning new things 🔎!")
 |Free Place.| [Github](https://github.com/Mauricio-create/App_H.git) | Free-Place| Submitted |Gael León|
 |    iSee   | [Github](https://github.com/RivNadia/iSee)             |  iSee         |    Submitted      | Yael Zamora |
 |     Compara Bus     | [Github](https://github.com/RafaPatino01/hackathon-up)                                | Compara Bus                 |      Submitted    |Rafa Patiño|
-|          |                                                     |              |          ||
+|   Tofu_ |  [Github](https://github.com/TofuDotTech/tofu_mobility)          | Tofu_ Mobility     | Submitted    |Jyaru Hernandez|
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
