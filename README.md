@@ -37,7 +37,7 @@ print("Always learning new things 🔎!")
 |   Tofu_ |  [Github](https://github.com/TofuDotTech/tofu_mobility)          | Tofu_ Mobility     | Submitted    |Jyaru Hernandez|
 |Rogeval-kal|[Github](https://github.com/GenaroGA/iShare)        |iShare        |          |Kael Cort|
 |              |          ||
-|          |                                                     |              |          ||
+|BaymaxCoders|[Github](https://github.com/MrPicudo/HackathonUP)  | IAVoy        |          |Jose Miguel Torres Chavez Nava|
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
