@@ -28,56 +28,24 @@ print("Always learning new things 🔎!")
 
 **To add your own project below, edit this file and submit a pull request, please 😁.**
 
-| Team Name | Source                                              |   App Name   |  Status  |
-| :-------: | --------------------------------------------------- | :-----------: | :-------: |
-|  Example  | [Github](https://github.com/iOS-Lab-UP/Hackathon-2023) | Your-App-Name | Submitted |
-|LOS FLACOS | [Github](https://github.com/Mauricio-create/App_H.git) | Free-Place| Submitted |
-|    iSee   | [Github](https://github.com/RivNadia/iSee)             |  iSee         |    Submitted      |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|          |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
-|           |                                                     |              |          |
+| Team Name | Source                                              |   App Name   |  Status  | Leader |
+| :-------: | --------------------------------------------------- | :-----------: | :-------: | :-------: |
+|  Example  | [Github](https://github.com/iOS-Lab-UP/Hackathon-2023) | Your-App-Name | Submitted ||
+|LOS FLACOS | [Github](https://github.com/Mauricio-create/App_H.git) | Free-Place| Submitted ||
+|    iSee   | [Github](https://github.com/RivNadia/iSee)             |  iSee         |    Submitted      ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
+|          |                                                     |              |          ||
