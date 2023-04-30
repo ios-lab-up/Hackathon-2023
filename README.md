@@ -32,7 +32,7 @@ print("Always learning new things 🔎!")
 | :-------: | --------------------------------------------------- | :-----------: | :-------: | :-------: |
 |  Example  | [Github](https://github.com/iOS-Lab-UP/Hackathon-2023) | Your-App-Name | Submitted ||
 |LOS FLACOS | [Github](https://github.com/Mauricio-create/App_H.git) | Free-Place| Submitted ||
-|    iSee   | [Github](https://github.com/RivNadia/iSee)             |  iSee         |    Submitted      ||
+|    iSee   | [Github](https://github.com/RivNadia/iSee)             |  iSee         |    Submitted      | Yael Zamora |
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
