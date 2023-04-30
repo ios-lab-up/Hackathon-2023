@@ -57,7 +57,6 @@ print("Always learning new things 🔎!")
 |          |                                                     |              |          |
 |          |                                                     |              |          |
 |          |                                                     |              |          |
-|LOS FLACOS | [Github](https://github.com/Mauricio-create/App_H.git) | Free-Place| Submitted |
 |           |                                                     |              |          |
 |           |                                                     |              |          |
 |           |                                                     |              |          |
