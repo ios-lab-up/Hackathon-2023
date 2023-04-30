@@ -35,7 +35,7 @@ print("Always learning new things 🔎!")
 |    iSee   | [Github](https://github.com/RivNadia/iSee)             |  iSee         |    Submitted      | Yael Zamora |
 |     Compara Bus     | [Github](https://github.com/RafaPatino01/hackathon-up)                                | Compara Bus                 |      Submitted    |Rafa Patiño|
 |   Tofu_ |  [Github](https://github.com/TofuDotTech/tofu_mobility)          | Tofu_ Mobility     | Submitted    |Jyaru Hernandez|
-|          |                                                     |              |          ||
+|     Los remanentes     |        [Github](https://github.com/maferojedac/Hackaton-UParqueo)  |   UParqueo     |          | Mafer Ojeda|
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
