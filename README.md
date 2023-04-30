@@ -31,11 +31,12 @@ print("Always learning new things 🔎!")
 | Team Name | Source                                              |   App Name   |  Status  | Leader |
 | :-------: | --------------------------------------------------- | :-----------: | :-------: | :-------: |
 |  Example  | [Github](https://github.com/iOS-Lab-UP/Hackathon-2023) | Your-App-Name | Submitted ||
-|LOS FLACOS | [Github](https://github.com/Mauricio-create/App_H.git) | Free-Place| Submitted ||
+|Free Place.| [Github](https://github.com/Mauricio-create/App_H.git) | Free-Place| Submitted |Gael León|
 |    iSee   | [Github](https://github.com/RivNadia/iSee)             |  iSee         |    Submitted      | Yael Zamora |
 |     Compara Bus     | [Github](https://github.com/RafaPatino01/hackathon-up)                                | Compara Bus                 |      Submitted    |Rafa Patiño|
+|   Tofu_ |  [Github](https://github.com/TofuDotTech/tofu_mobility)          | Tofu_ Mobility     | Submitted    |Jyaru Hernandez|
 |Rogeval-kal|[Github](https://github.com/GenaroGA/iShare)        |iShare        |          |Kael Cort|
-|          |                                                     |              |          ||
+|              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
