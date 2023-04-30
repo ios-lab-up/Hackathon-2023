@@ -36,8 +36,7 @@ print("Always learning new things 🔎!")
 |     Compara Bus     | [Github](https://github.com/RafaPatino01/hackathon-up)                                | Compara Bus                 |      Submitted    |Rafa Patiño|
 |   Tofu_ |  [Github](https://github.com/TofuDotTech/tofu_mobility)          | Tofu_ Mobility     | Submitted    |Jyaru Hernandez|
 |Rogeval-kal|[Github](https://github.com/GenaroGA/iShare)        |iShare        |          |Kael Cort|
-|              |          ||
-|          |                                                     |              |          ||
+| PIMNGUIAMIGOS  |[Github](https://github.com/OscarValdes1997/MUSHU)        |MUSHU|Submitted|Valdes Oscar|                                                     |              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
