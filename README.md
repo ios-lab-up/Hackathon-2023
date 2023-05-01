@@ -46,7 +46,7 @@ print("Always learning new things 🔎!")
 | Uin | [Github](https://github.com/Tavernauta/UIN-final)| Uin |Submitted | Andrés Tavera |
 |Biyul|[Github](https://github.com/GFRESHHH/E-MOVE_.git)|E-Move|Submitted|Xayil|
 |OJJ Transports| [Github](https://github.com/James5258/Hackathon)| all rute cdmx |Submitted |Jaime Novales|
-|Equipo 9|[Github](https://github.com/Raxel99-UNAM/FleetGuard)|Fleet Guard|          |Raymundo Mondragon||
+|Equipo 9|[Github](https://github.com/Raxel99-UNAM/FleetGuard)|Fleet Guard|      Submitted    |Raymundo Mondragon||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
