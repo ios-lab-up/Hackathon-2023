@@ -40,7 +40,6 @@ print("Always learning new things 🔎!")
 |BaymaxCoders|[Github](https://github.com/MrPicudo/HackathonUP)  | IAVoy        |   Submitted       |Jose Miguel Torres Chavez Nava|
 | PIMNGUIAMIGOS  |[Github](https://github.com/OscarValdes1997/MUSHU)        |MUSHU|Submitted|Valdes Oscar|    
 |     Los remanentes     |        [Github](https://github.com/maferojedac/Hackaton-UParqueo)  |   UParqueo     |   Submitted       | Mafer Ojeda|
-|Equipo 9|[Github](https://github.com/GIsaacLN/hackathon)|FleetGuard|Submitted|Raymundo Mondragon|
 | Ellipsis | [Github](https://github.com/AOx0/up-ios-hackathon-1)| ComFu |Submitted | Lorenzo Reinoso |
 |Park-A-Lot| [Github](https://github.com/SebasJacome/hackathon_swiftui) | Park-A-Lot| Submitted |José Kuri
 |     Park-In     |   [Github](https://github.com/EA-Gadgeter/swift-hackthon-park-in)   |      Park-In        |  Submitted        | Ariel Emiliano Acevedo Posos |
