@@ -36,7 +36,7 @@ print("Always learning new things 🔎!")
 |     Compara Bus     | [Github](https://github.com/RafaPatino01/hackathon-up)                                | Compara Bus                 |      Submitted    |Rafa Patiño|
 |   Tofu_ |  [Github](https://github.com/TofuDotTech/tofu_mobility)          | Tofu_ Mobility     | Submitted    |Jyaru Hernandez|
 |Rogeval-kal|[Github](https://github.com/GenaroGA/HackathonUP)        |iShare        | Submitted         |Kaleb Cortés|
-|Swifties|[Github](https://github.com/ingchivas/iosLabUPHackathon23) |NoWaste|Submitted||
+|Swifties|[Github](https://github.com/ingchivas/iosLabUPHackathon23) |NoWaste|Submitted|Carlos Lopez|
 |BaymaxCoders|[Github](https://github.com/MrPicudo/HackathonUP)  | IAVoy        |   Submitted       |Jose Miguel Torres Chavez Nava|
 | PIMNGUIAMIGOS  |[Github](https://github.com/OscarValdes1997/MUSHU)        |MUSHU|Submitted|Valdes Oscar|    
 |     Los remanentes     |        [Github](https://github.com/maferojedac/Hackaton-UParqueo)  |   UParqueo     |   Submitted       | Mafer Ojeda|
