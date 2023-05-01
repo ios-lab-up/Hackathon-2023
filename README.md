@@ -43,9 +43,8 @@ print("Always learning new things 🔎!")
 |Equipo 9|[Github](https://github.com/GIsaacLN/hackathon)|FleetGuard|Submitted|Raymundo Mondragon|
 | Ellipsis | [Github](https://github.com/AOx0/up-ios-hackathon-1)| ComFu |Submitted | Lorenzo Reinoso |
 |Park-A-Lot| [Github](https://github.com/SebasJacome/hackathon_swiftui) | Park-A-Lot| Submitted |José Kuri
-|     Park-In     |   [Github](https://github.com/EA-Gadgeter/swift-hackthon-park-in)   |      Park-In        |          | Ariel Emiliano Acevedo Posos |
-| Uin | [Github](https://github.com/Tavernauta/UIN-final)| Uin | | Andrés Tavera |
-|          |                                                     |              |          ||
+|     Park-In     |   [Github](https://github.com/EA-Gadgeter/swift-hackthon-park-in)   |      Park-In        |  Submitted        | Ariel Emiliano Acevedo Posos |
+| Uin | [Github](https://github.com/Tavernauta/UIN-final)| Uin |Submitted | Andrés Tavera |
 |Biyul|[Github](https://github.com/GFRESHHH/E-MOVE_.git)|E-Move|Submitted||Xayil 
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
