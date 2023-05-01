@@ -45,7 +45,7 @@ print("Always learning new things 🔎!")
 |Park-A-Lot| [Github](https://github.com/SebasJacome/hackathon_swiftui) | Park-A-Lot| Submitted |José Kuri
 |     Park-In     |   [Github](https://github.com/EA-Gadgeter/swift-hackthon-park-in)   |      Park-In        |  Submitted        | Ariel Emiliano Acevedo Posos |
 | Uin | [Github](https://github.com/Tavernauta/UIN-final)| Uin |Submitted | Andrés Tavera |
-|Biyul|[Github](https://github.com/GFRESHHH/E-MOVE_.git)|E-Move|Submitted||Xayil 
+|Biyul|[Github](https://github.com/GFRESHHH/E-MOVE_.git)|E-Move|Submitted|Xayil| 
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
