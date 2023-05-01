@@ -35,15 +35,16 @@ print("Always learning new things 🔎!")
 |    iSee   | [Github](https://github.com/RivNadia/iSee)             |  iSee         |    Submitted      | Yael Zamora |
 |     Compara Bus     | [Github](https://github.com/RafaPatino01/hackathon-up)                                | Compara Bus                 |      Submitted    |Rafa Patiño|
 |   Tofu_ |  [Github](https://github.com/TofuDotTech/tofu_mobility)          | Tofu_ Mobility     | Submitted    |Jyaru Hernandez|
-|Rogeval-kal|[Github](https://github.com/GenaroGA/HackathonUP)        |iShare        |          |Kael Cort|
+|Rogeval-kal|[Github](https://github.com/GenaroGA/HackathonUP)        |iShare        | Submitted         |Kael Cort|
 |Swifties|[Github](https://github.com/ingchivas/iosLabUPHackathon23) |NoWaste|Submitted||
-|BaymaxCoders|[Github](https://github.com/MrPicudo/HackathonUP)  | IAVoy        |          |Jose Miguel Torres Chavez Nava|
+|BaymaxCoders|[Github](https://github.com/MrPicudo/HackathonUP)  | IAVoy        |   Submitted       |Jose Miguel Torres Chavez Nava|
 | PIMNGUIAMIGOS  |[Github](https://github.com/OscarValdes1997/MUSHU)        |MUSHU|Submitted|Valdes Oscar|    
-|     Los remanentes     |        [Github](https://github.com/maferojedac/Hackaton-UParqueo)  |   UParqueo     |          | Mafer Ojeda|
-|Equipo 9|[Github](https://github.com/GIsaacLN/hackathon)|FleetGuard||Raymundo Mondragon|
-| Ellipsis | [Github](https://github.com/AOx0/up-ios-hackathon-1)| ComFu | | Lorenzo Reinoso |
+|     Los remanentes     |        [Github](https://github.com/maferojedac/Hackaton-UParqueo)  |   UParqueo     |   Submitted       | Mafer Ojeda|
+|Equipo 9|[Github](https://github.com/GIsaacLN/hackathon)|FleetGuard|Submitted|Raymundo Mondragon|
+| Ellipsis | [Github](https://github.com/AOx0/up-ios-hackathon-1)| ComFu |Submitted | Lorenzo Reinoso |
 |Park-A-Lot| [Github](https://github.com/SebasJacome/hackathon_swiftui) | Park-A-Lot| Submitted |José Kuri
 |     Park-In     |   [Github](https://github.com/EA-Gadgeter/swift-hackthon-park-in)   |      Park-In        |          | Ariel Emiliano Acevedo Posos |
+| Uin | [Github](https://github.com/Tavernauta/UIN-final)| Uin | | Andrés Tavera |
 |          |                                                     |              |          ||
 |Biyul|[Github](https://github.com/GFRESHHH/E-MOVE_.git)|E-Move|Submitted||Xayil 
 |          |                                                     |              |          ||
@@ -62,4 +63,3 @@ print("Always learning new things 🔎!")
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
 |          |                                                     |              |          ||
-| Uin | [Github](https://github.com/Tavernauta/UIN-final)| Uin | | Andrés Tavera |
